@@ -1,2 +1,6 @@
 # ProjetTWEB
-Projet de TWEB
+
+**But :** créer une application de messagerie
+
+**To do list :**
+- 
